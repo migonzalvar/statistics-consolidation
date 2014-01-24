@@ -7,7 +7,7 @@ with open('README.rst') as file:
 
 setup(
     name="stats_consolidation",
-    version="2.1",
+    version="2.1.2",
     description="Statistics translator from rrd to relational db",
     long_description=long_description,
     author="Gustavo Duarte",
